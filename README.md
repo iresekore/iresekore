@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👩🏽‍💻
 
-<!--
-**iresekore/iresekore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Irenosen! MS in Business Analytics @ Fordham University (Ongoing).
 
-Here are some ideas to get you started:
+- Querying data using SQL.
+- Developing dashboards on Tableau and PowerBI.
+- Data analysis using Python and Excel.
+- Building predictive models using IBM SPSS Modeler.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tools
+- Language: Python, SQL
+- Visualization: Tableau, PowerBI
+
+Connect with me:
+https://www.linkedin.com/in/irenosen/
