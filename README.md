@@ -11,5 +11,8 @@ Tools
 - Language: Python, SQL
 - Visualization: Tableau, PowerBI
 
+Portfolio
+-https://github.com/iresekore/Portfolio.git
+
 Connect with me:
 https://www.linkedin.com/in/irenosen/
