@@ -1,6 +1,6 @@
 ## Hi there 👩🏽‍💻
 
-Hi, I'm Irenosen! MS in Business Analytics @ Fordham University (Ongoing).
+Hi, I'm Irenosen! MS in Business Analytics/Programming for Data Science @ Fordham University (Ongoing).
 
 - Querying data using SQL.
 - Developing dashboards on Tableau and PowerBI.
