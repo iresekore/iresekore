@@ -1,18 +1,11 @@
 ## Hi there 👩🏽‍💻
-
-Hi, I'm Irenosen! MS in Business Analytics/Programming for Data Science @ Fordham University (Ongoing).
-
-- Querying data using SQL.
-- Developing dashboards on Tableau and PowerBI.
-- Data analysis using Python and Excel.
-- Building predictive models using IBM SPSS Modeler.
+I'm Irenosen! MS in Business Analytics @ Fordham University (Ongoing)
+Interested in Data Science and Programming for Data Analytics
+These are projects I've collaborated with classmates on during my Masters program
 
 Tools
 - Language: Python, SQL
 - Visualization: Tableau, PowerBI
-
-Portfolio
-- https://github.com/iresekore/Portfolio.git
 
 Connect with me:
 https://www.linkedin.com/in/irenosen/
